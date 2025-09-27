@@ -33,17 +33,6 @@ Font Awesome (icons)
 
 Google Apps Script (form handling to Google Sheets)
 
-🖥️ Usage
-
-Clone or download this repository:
-
-git clone https://github.com/username/portfolio-website.git
-
-
-Open index.html in your browser.
-
-Navigate through different sections: Home, About, Services, City, Contact, Login.
-
 📸 Preview
 
 Home with personal introduction
